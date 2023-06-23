@@ -1,0 +1,29 @@
+.card {
+  width: 40%;
+  margin-left: 5%;
+}
+#topNubex {
+  position: fixed;
+  right: 45px;
+  bottom: 45px;
+}
+
+.nav-link {
+  color: rgb(73, 66, 66);
+  border-bottom: 0.25rem solid transparent;
+}
+
+.nav-link:hover,
+.nav-link:focus {
+  color: rgb(179, 136, 9);
+  border-bottom-color: rgb(255,193,7);
+}
+.name {
+  color: black;
+  text-decoration: none;
+}
+.name :hover{
+  color: black;
+  text-decoration: none;
+}
+
