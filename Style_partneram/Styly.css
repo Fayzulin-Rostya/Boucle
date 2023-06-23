@@ -1,0 +1,11 @@
+img.first	{
+	margin-left: 50px;
+}
+li.nav-item:hover {
+	background-color: #ced4da;
+	color: White;
+	border-radius: 6px;
+	transition: 1s;
+	margin-left: 5px;
+	margin-right: 5px;
+}
